@@ -4,8 +4,8 @@
 
 #### inputs, etc
 #### inputs, etc
-resultsdir = '/gpfs/data/greenocean/GCB/GCB2024/submissionData2024/RIV12_R4A-D0/'
-runs = ["TOM12_TJ_R4A0", "TOM12_TJ_R4B0", "TOM12_TJ_R4C0", "TOM12_TJ_R4D0"]
+resultsdir = '/gpfs/data/greenocean/GCB/GCB2024/submissionData2024/RIV12_R4A-D1/'
+runs = ["TOM12_TJ_R4A1", "TOM12_TJ_R4B1", "TOM12_TJ_R4C1", "TOM12_TJ_R4D1"]
 # resultsdir = '/gpfs/data/greenocean/GCB/GCB2023/submissionData2023/TOM12/'
 # runs = ["TOM12_TJ_GEA0", "TOM12_TJ_GEB0", "TOM12_TJ_GEC0", "TOM12_TJ_GED0"] #tom12 model version, change to CAL12 if nec
 horse = True #are we running?
